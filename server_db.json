@@ -1,9 +1,0 @@
-{
-  "Joash": {
-    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+fM2Mkcr72SGDdOYzCzz\nVgrUnTbDW72CQzvimlKBsOAtU/jXyaVFSvUw6QoAuo4VjU1hEBLUcpybHAzxxXRB\nNk7+Lbai5feaVikf+pN5jQ2XMTclzVy2MG0t0Kp0Xw08cP8CHlcDro06bNC0b0yc\nld82W0fe/+i86g19WxNMRJJV/ieYIHWuYFTuteAHoE4Tfili74jaLBZ4+TwpKxon\nGjv5jkYJY0DqnRWhoGqdV9FRYt12mQmxy1FJxedLfLc8NxoiLyUw2fjSGAsfyFg5\nqMndFgFj5TEKHTfizTNs/OIRTOUkFSTlyk5JnvMeVGEFMibw66QU5HgT6B+KAgxh\nSQIDAQAB\n-----END PUBLIC KEY-----\n",
-    "salt": "Wgj3yUQ6wUtuX6mrw/KsUg==",
-    "cert_signature": "fcIFvGjVA+IYtwtHx72NNl6BAAwtXXT/KEKEntoo4gdHkqC3ES73SreZWqEXTIMOvOAj9Ib5SO+OGBMCcDZsWqNeBxLOuB/md/sGQX0UJoPhOGfNPT1zYwQYLOlH7Uhp/UXqSSOXOw1CWzfgp90vyYHZzZ82xZTDsXrhbY1M/C7zh6YN72d/z2av5FM85RRBlXua7jhzk3IzIvkItDgRvDHut9dJywvpv0tAgDXZkH9poNfSJcdASGy1gqEnnrRT6NRSUuxf1sGItxWsL7GWLDQIWEs25XwrUqZLGzWaeyHHzTwwOBrUTR97sZy/nQGJYPMR4JVntGrifhMiscfuFA==",
-    "vault_blob": "qfESRbcdgu4s8qXwpEChnCacKxKZtzKgRVdTaLwLngp+b+//Mw3CRPKglyahcx8b+mSXeCxXO3obYS66PYP4w+3Li9D6nPqPZNPFdwODDF3y1sr/vC22G/cEX3a3p1r8/xfSw8DMfg==",
-    "vault_sig": "ZGiVbYC59zjbaq7smZ+l5zP34qi9Ve6qF8fQzkeufq50rZ49/uozpP7B7Z+cxZgfHt8G+cZs/zxmDcUBO4sXDwlgLLGwHb3krN36dxeCMAsOWHr0wxRovf2u61krWSZ43HBuroQWn3XKav0EOztyIcgCOTvXse247oKf8JTnv6g6PSly4WBk9330+7oz9uHtps+LRuKH/o740p6B9aW7Rq4SqBDulXnzw9WEPgH/dTc0sinzSHQs6DkWVznnbJ6YyXQWgsS/Uun2TO8qrXat6ewSE40CjKbLs51rIjTHxxASp3HTPkBhUtgTqrTfZ1RCW+tT6+SS6r/yzM1tUEq8+A=="
-  }
-}
